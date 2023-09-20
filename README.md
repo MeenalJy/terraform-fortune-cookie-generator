@@ -46,7 +46,7 @@ Before you begin, ensure you have the following:
    ```
 
 6. Here's the output
-   ![output](output.jpg)
+   ![output](op1.jpg)
 
 
 6. To clean up and destroy the resources, run:
