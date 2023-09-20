@@ -1,6 +1,6 @@
 # Terraform Fortune Cookie Generator
 
-![Fortune Cookie](cookie.jpg)
+![Fortune Cookie Quote](cookie.jpg)
 
 This is a fun Terraform project that deploys a Fortune Cookie Generator. It generates random fortune cookie messages and stores them in an output file.
 
